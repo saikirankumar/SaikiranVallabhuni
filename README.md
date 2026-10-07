@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- ☁️ Cloud & DevOps Engineer with 3+ years of experience building and running infrastructure on **AWS** and **Azure**
+- ☁️ Cloud & DevOps Engineer with 4 years of experience building and running infrastructure on **AWS** and **Azure**
 - 🏗️ I automate infrastructure with **Terraform** and **Ansible**, and ship through **Jenkins**, **GitHub Actions** and **Bamboo** pipelines
 - ☸️ I run production workloads on **Amazon EKS** and **Azure AKS**
 - 📊 I build observability with **Prometheus, Grafana, Datadog, Loki, Splunk and CloudWatch**
@@ -83,14 +83,36 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Bring to a Team
 
-> Replace `YOUR_USERNAME` below with your GitHub username.
+| Area | How I help |
+|---|---|
+| **Infrastructure as Code** | Repeatable, version-controlled environments with Terraform and Ansible instead of manual setup |
+| **CI/CD Automation** | Standardized pipelines (Jenkins, GitHub Actions, Bamboo) with built-in quality and security gates |
+| **Kubernetes & Containers** | Reliable, scalable workloads on EKS and AKS, packaged with Docker |
+| **Observability** | Unified dashboards and alerting that cut down incident diagnosis time |
+| **Security (DevSecOps)** | Least-privilege IAM, SonarQube and Black Duck scans before code reaches production |
+| **Cost Efficiency** | Right-sizing recommendations, resource tagging and governance |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saikirankumar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirankumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## ⚙️ How I Work
+
+```yaml
+mindset:
+  - Automate repetitive work
+  - Treat infrastructure as code
+  - Build security in from the start
+  - Monitor everything that matters
+  - Document so the next person can take over
+currently_exploring:
+  - Azure (VMs, AKS)
+  - Kubernetes at scale
+open_to:
+  - DevOps Engineer
+  - Cloud Engineer
+  - Site Reliability Engineer
+```
 
 ---
 
