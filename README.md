@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- ☁️ Cloud & DevOps Engineer with 4 years of experience building and running infrastructure on **AWS** and **Azure**
+- ☁️ Cloud & DevOps Engineer with 3+ years of experience building and running infrastructure on **AWS** and **Azure**
 - 🏗️ I automate infrastructure with **Terraform** and **Ansible**, and ship through **Jenkins**, **GitHub Actions** and **Bamboo** pipelines
 - ☸️ I run production workloads on **Amazon EKS** and **Azure AKS**
 - 📊 I build observability with **Prometheus, Grafana, Datadog, Loki, Splunk and CloudWatch**
